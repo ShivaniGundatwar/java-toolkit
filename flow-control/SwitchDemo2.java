@@ -23,9 +23,6 @@ public class SwitchDemo2
 				System.out.println("student 4");
 				break;
 			
-			case STROWBERRY:
-                                System.out.println("student 4");
-                                break;
 
 		}
 	}
