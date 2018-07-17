@@ -1,4 +1,6 @@
-
+/**
+ * Program for checking If-else condition.
+ */
 public class IfDemo {
 
 	public static void main(String[] args){
